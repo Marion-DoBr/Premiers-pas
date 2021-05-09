@@ -6,3 +6,6 @@
 <img src="README/Capture d’écran (départ).png">
 <img src="README/Capture d’écran (ensemble).png">
 <img src="README/Capture d’écran (fin).png">
+
+
+<p>Merci à Guillaume pour son code de caméra et son aide précieuse dans ce projet</p>
