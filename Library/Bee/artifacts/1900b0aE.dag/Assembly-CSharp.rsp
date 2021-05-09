@@ -330,6 +330,7 @@
 "Assets/Scripts/Explosion.cs"
 "Assets/Scripts/KillZone.cs"
 "Assets/Scripts/LookAt.cs"
+"Assets/Scripts/NewLookAt.cs"
 "Assets/Scripts/PlayerCube.cs"
 -langversion:8.0
 
